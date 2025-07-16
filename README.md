@@ -1,4 +1,4 @@
-company name: CotechIT solutions 
+company name: Codtech IT solutions 
 Name: SARANYA M (intern)
 intern id:CITSOD771
 domain : UI&UX
