@@ -17,10 +17,9 @@ Clear CTA: Prominent "Get Started" button.
 Footer: Adds professionalism with branding.
 Visual Hierarchy: Sections like header, content, and footer are clearly defined.
 Accessibility: Simple and clean for easy navigation.
-BEFORE OUTPUT :
-https://github.com/Saranya-M-IT/UI-UX-task1/issues/1#issue-3234493884
+BEFORE OUTPUT :https://github.com/user-attachments/assets/75ea88bb-0b91-44c9-815d-d03c73e60cdc
 AFTER OUTPUT:
-https://github.com/Saranya-M-IT/UI-UX-task1/issues/2#issue-3234497619
+
 
 
 
