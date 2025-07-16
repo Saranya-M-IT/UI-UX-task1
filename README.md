@@ -19,6 +19,7 @@ Visual Hierarchy: Sections like header, content, and footer are clearly defined.
 Accessibility: Simple and clean for easy navigation.
 BEFORE OUTPUT :https://github.com/user-attachments/assets/75ea88bb-0b91-44c9-815d-d03c73e60cdc
 AFTER OUTPUT:
+![Image](https://github.com/user-attachments/assets/59b6ea47-8ec2-4415-94bf-a85e772a4260)
 
 
 
